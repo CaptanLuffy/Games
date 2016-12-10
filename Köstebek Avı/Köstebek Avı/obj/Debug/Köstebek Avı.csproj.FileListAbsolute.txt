@@ -1,0 +1,9 @@
+C:\Users\SERHAT\Documents\Visual Studio 2015\Projects\Köstebek Avı\Köstebek Avı\bin\Debug\Köstebek Avı.exe.config
+C:\Users\SERHAT\Documents\Visual Studio 2015\Projects\Köstebek Avı\Köstebek Avı\bin\Debug\Köstebek Avı.exe
+C:\Users\SERHAT\Documents\Visual Studio 2015\Projects\Köstebek Avı\Köstebek Avı\bin\Debug\Köstebek Avı.pdb
+C:\Users\SERHAT\Documents\Visual Studio 2015\Projects\Köstebek Avı\Köstebek Avı\obj\Debug\Köstebek Avı.csprojResolveAssemblyReference.cache
+C:\Users\SERHAT\Documents\Visual Studio 2015\Projects\Köstebek Avı\Köstebek Avı\obj\Debug\Köstebek_Avı.KöstebekAvı.resources
+C:\Users\SERHAT\Documents\Visual Studio 2015\Projects\Köstebek Avı\Köstebek Avı\obj\Debug\Köstebek_Avı.Properties.Resources.resources
+C:\Users\SERHAT\Documents\Visual Studio 2015\Projects\Köstebek Avı\Köstebek Avı\obj\Debug\Köstebek Avı.csproj.GenerateResource.Cache
+C:\Users\SERHAT\Documents\Visual Studio 2015\Projects\Köstebek Avı\Köstebek Avı\obj\Debug\Köstebek Avı.exe
+C:\Users\SERHAT\Documents\Visual Studio 2015\Projects\Köstebek Avı\Köstebek Avı\obj\Debug\Köstebek Avı.pdb
