@@ -108,9 +108,9 @@ namespace Köstebek_Avı
             // Put scores on the screen
             TextFormatFlags flags = TextFormatFlags.Left;
             Font _font = new System.Drawing.Font("Stencil", 12, FontStyle.Regular);
-            TextRenderer.DrawText(e.Graphics, "Shots: "  +_vurus.ToString(), _font, new Rectangle(30, 32, 120, 20), SystemColors.ControlText, flags);
-            TextRenderer.DrawText(e.Graphics, "Hits: "  +_iska.ToString(), _font, new Rectangle(30, 52, 120, 20), SystemColors.ControlText, flags);
-            TextRenderer.DrawText(e.Graphics, "Misses: "  +_toplamatis.ToString(), _font, new Rectangle(30, 72, 120, 20), SystemColors.ControlText, flags);
+            TextRenderer.DrawText(e.Graphics, "Hits: "  +_vurus.ToString(), _font, new Rectangle(30, 32, 120, 20), SystemColors.ControlText, flags);
+            TextRenderer.DrawText(e.Graphics, "Misses: "  +_iska.ToString(), _font, new Rectangle(30, 52, 120, 20), SystemColors.ControlText, flags);
+            TextRenderer.DrawText(e.Graphics, "Shots: "  +_toplamatis.ToString(), _font, new Rectangle(30, 72, 120, 20), SystemColors.ControlText, flags);
             TextRenderer.DrawText(e.Graphics, "AVG: "  +_ortalamisabet.ToString("F0") + "%", _font, new Rectangle(30, 92, 120, 20), SystemColors.ControlText, flags);
 
             base.OnPaint(e);
